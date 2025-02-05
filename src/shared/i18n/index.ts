@@ -26,6 +26,7 @@ export class AppI18n {
     en: 'English',
     es: 'Español',
     zh: '简体中文',
+    ko: '한국어',
     jp: '日本語',   
   };
 
